@@ -11,3 +11,5 @@ elif num > 5:
     print('Last digit of', st, 'is', num, 'and is greater than 5')
 elif num <= 5:
     print('Last digit of', st, 'is', num, 'and is less than 6 and not 0')
+else:
+    print('TypeError')
