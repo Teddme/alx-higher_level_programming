@@ -3,8 +3,6 @@
 #include <listobject.h>
 #include <bytesobject.h>
 
-# p its PyObject data type params defind to check bytes
-
 void print_python_bytes(PyObject *p)
 {
 	long int size;
